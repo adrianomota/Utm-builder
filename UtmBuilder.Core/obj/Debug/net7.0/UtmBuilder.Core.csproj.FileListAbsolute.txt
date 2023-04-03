@@ -1,0 +1,12 @@
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.deps.json
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.dll
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/bin/Debug/net7.0/UtmBuilder.Core.pdb
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.AssemblyReference.cache
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfoInputs.cache
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.AssemblyInfo.cs
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.csproj.CoreCompileInputs.cache
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.dll
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/refint/UtmBuilder.Core.dll
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/UtmBuilder.Core.pdb
+/home/adriano/dotnet/UtmBuilder/UtmBuilder.Core/obj/Debug/net7.0/ref/UtmBuilder.Core.dll
